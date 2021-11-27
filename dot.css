@@ -1,0 +1,29 @@
+
+*{ 
+    color: crimson;
+}
+h1{
+    color: darkblue;
+ } 
+a[target]{
+     color: darkgreen;
+ }h3{ 
+    color: blueviolet;
+} 
+h2{ 
+    color: chartreuse;
+}
+a[href]{
+    color: darkolivegreen;
+}
+
+#q{
+    color: cornflowerblue;
+} 
+.p{
+    color: hotpink;
+}
+h4,h5{
+    color: orangered;
+}
+

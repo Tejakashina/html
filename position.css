@@ -1,0 +1,32 @@
+.parent{
+    background-color: violet;
+ height: 5000px;
+}
+.child1{
+    background-color:yellow ;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: fixed;
+    top: 100px;
+
+}
+.child2{
+    background-color: turquoise;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: sticky;
+    top: 0px;
+
+    
+   
+    
+}
+.child3{
+    background-color: orangered;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: relative;
+    top: 100px;
+    
+
+}

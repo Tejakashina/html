@@ -1,0 +1,23 @@
+.flex-container{
+    background-color:yellow ;
+    display: flex;
+    flex-wrap: nowrap;
+    /* align-items: center; */
+}
+.flex-item{
+    width: 200px;
+    margin: 10px;
+    background-color: royalblue;
+}
+.flex-item-1{
+    min-height: 100px;
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/10/13/19/butterfly-clip-art-4117065__340.png");
+}
+.flex-item-2{
+    min-height: 100px;
+    flex-shrink: 20;
+}
+.flex-item-3{
+min-height: 100px;
+
+}

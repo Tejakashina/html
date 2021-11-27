@@ -1,0 +1,20 @@
+/* p{ 
+    display: inline;
+    
+ } */
+/* h1{ 
+    display: inline;
+} */
+/* p{ 
+white-space: nowrap;
+    overflow: scroll;
+    border: 1px solid;
+    text-overflow: ellipsis;
+} */
+p:hover{ 
+    overflow: visible;
+} 
+p{
+    color: blue;
+    display: inline;
+}

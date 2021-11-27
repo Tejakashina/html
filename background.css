@@ -1,0 +1,43 @@
+/*body{
+    background-color: violet;
+    background-repeat: no-repeat;
+    background-image: url("https://cdn.pixabay.com/photo/2021/11/11/13/07/sparkling-wine-6786251__340.jpg");
+    background-attachment: fixed;
+    background-position: right;
+}*/
+input,textarea{
+    background-color: peru;
+}
+a[href]
+{
+    background-color: turquoise;
+}
+
+img{
+    border-radius: 20px 40px 10px 40px;
+    border:10px dashed orangered;
+}
+/*p{
+    color: orangered;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 400;
+}*/
+p{
+    font-family: estonia;
+}
+p{
+    text-align:justify;
+   text-decoration: underline chartreuse;
+    text-transform: capitalize;
+    /*letter-spacing: 12px;*/
+    word-spacing: 16px;
+    /*text-shadow: 3px 3px black;*/
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+
+    

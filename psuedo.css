@@ -1,0 +1,18 @@
+#change{
+    text-decoration: none;
+}
+#change:hover{
+    text-decoration: underline;
+}
+img:hover{
+    height:100px;
+    width:100px;
+    display: none;
+}
+ div 
+{
+    width: 100px;
+    height: 100px;
+    background-image: url("https://cdn.pixabay.com/photo/2021/10/21/14/03/cats-6729197__340.jpg");
+    background-repeat: no-repeat;
+} 

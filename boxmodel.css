@@ -1,0 +1,12 @@
+#img2{
+    background-color: chartreuse;
+}
+
+#img1{
+    /*background-color: chocolate;*/
+    margin: 40px;
+    border:10px dashed red;
+    padding: 40px;
+    border-radius:10px;
+    box-shadow: 5px 20px green;
+}
